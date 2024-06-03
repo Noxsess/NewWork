@@ -23,5 +23,5 @@ jobs:
           
     - name: Run Python script
       run: |
-        python time.py  # Замените 'script.py' на имя вашего файла со скриптом
+        python time.py  
 
